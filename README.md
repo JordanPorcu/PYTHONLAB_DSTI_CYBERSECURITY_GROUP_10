@@ -29,6 +29,7 @@ In this repositroy you can find 3 folders :
 The main files are :
 - **cybersecurity_EDA.ipynb** : the jupiter notebook of the complete Exploratory Data Analysis
 - **cybersecurity_main.ipynb** : the jupiter notebook of the complete pipeline of the project
+- **CYBERSECURITY_GROUP10_REPORT.pdf** : the complete report of the project
 - **app.py** : the streamlit application file
 - **GeoLite2-City.mmdb** : the database used to convert IP addresses in geolocation data
 
